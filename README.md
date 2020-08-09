@@ -1,4 +1,4 @@
-# AirBnB-Seattle
+# Airbnb-Seattle
 ![ AirBnB](https://productcharles.com/wp-content/uploads/2015/11/airbnb_logo_detail.png)
 
 **Airbnb reservation price is based on following costs (according to [Airbnb official website information](https://www.airbnb.co.in/help/article/125/how-is-the-price-determined-for-my-reservation?locale=en&_set_bev_on_new_domain=1593369098_ODJmM2Y0YjZlNjhl)):**
